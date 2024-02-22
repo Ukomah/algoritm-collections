@@ -1,4 +1,4 @@
-# Algoritm Collections
+# Algorithm Collections
 
 ### Welcome!
 
@@ -14,3 +14,7 @@ This repository contains a collection of various algorithms implemented in pytho
 ### Explore the code:
 
 Each algorithm is located in its own `.ipynb` file. You can browse the code and documentation within each directory.
+
+### Contributing:
+
+We welcome contributions to this repository! If you have an algorithm you'd like to add or improvements to existing implementations, please feel free to submit a pull request.
